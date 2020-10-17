@@ -12,7 +12,7 @@ selected = false
 title = "Item-specific Processing Reduces False Memories"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "https://www.tandfonline.com/doi/abs/10.1080/08109028.2017.1280936?journalCode=cpro20"
 url_project = ""
 url_slides = ""
 url_video = ""
